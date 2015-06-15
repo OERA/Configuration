@@ -1,0 +1,2 @@
+# ConfigurationMaanger
+Configuration Manager Component
