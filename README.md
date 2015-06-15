@@ -1,2 +1,2 @@
-# ConfigurationManager
+# Configuration
 Configuration Manager Component
